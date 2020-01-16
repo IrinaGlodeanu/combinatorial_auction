@@ -34,7 +34,7 @@ We have a few solutions:
  * A few greedy implementation that can be found [here](src/greedy_model.py)
    * GreedyBigBet - is ordering bids by the amount they offer
    * GreedyNumberOfItems - is ordering bids by the amount if items the bid contains
-   *  GreedyAverageItemsPrice - is ordering bids by the average price/item
+   *  GreedyAverageItemsPrice - is ordering bids by the average price/item (improvement from the last two algorithms)
  * Ant Colony Optimization that can be found [here](src/aoc_model.py) - this is the first solution, we can still improve it
 
 
@@ -44,5 +44,5 @@ Also a tool that compared results to one another can be found [here](src/diff_da
 
 Team Members:
 
-* Glodeanu  Irina-Elena
+* Glodeanu Irina-Elena
 * Micu Matei-Marius
